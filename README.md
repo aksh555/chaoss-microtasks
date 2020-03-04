@@ -11,5 +11,5 @@ Setup Augur
 Worked in dev branch and added a notebook to analyze anomalies in the messages table, then provided visualizations of the same.
 - [X] **Microtask 2:** Make a pull request to update the dev branch with the work from Microtask 1. If you have questions about getting started in the steps above, open an issue in the Augur repository.
 
-Issue link: https://github.com/chaoss/augur/issues/561
-Pull request link: https://github.com/chaoss/augur/pull/568, https://github.com/chaoss/augur/pull/576
+Issue link: https://github.com/chaoss/augur/issues/561 <br>
+Pull request links: https://github.com/chaoss/augur/pull/568, https://github.com/chaoss/augur/pull/576

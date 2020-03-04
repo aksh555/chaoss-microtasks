@@ -1,4 +1,4 @@
-# CHAOSS Micro-tasks
+# CHAOSS Microtasks
 
 This repository has the microtasks for the project **Machine Learning for Anomaly Detection in Open Source Communities**.
 - [X] **Microtask 0:** Familiarize yourself with augur by downloading and configuring the dev branch. For a little more context about what we are trying to accomplish with Augur's prototyping, checkout Augur's documentation at : https://oss-augur.readthedocs.io/en/dev/ Fork Augur into your own GitHub Account. Work in the dev branch.

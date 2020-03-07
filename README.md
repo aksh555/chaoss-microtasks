@@ -1,6 +1,8 @@
 # CHAOSS Microtasks
 
-This repository has the microtasks for the project **Machine Learning for Anomaly Detection in Open Source Communities**.
+This repository contains the microtask submissions for CHAOSS GSoC 2020. I want to work on the idea:
+**[Machine Learning for Anomaly Detection in Open Source Communities](https://github.com/chaoss/augur/issues/545)**.
+
 - [X] **Microtask 0:** Familiarize yourself with augur by downloading and configuring the dev branch. For a little more context about what we are trying to accomplish with Augur's prototyping, checkout Augur's documentation at : https://oss-augur.readthedocs.io/en/dev/ Fork Augur into your own GitHub Account. Work in the dev branch.
 
 Setup Augur 
@@ -13,3 +15,16 @@ Worked in dev branch and added a notebook to analyze anomalies in the messages t
 
 Issue link: https://github.com/chaoss/augur/issues/561 <br>
 Pull request links: https://github.com/chaoss/augur/pull/568, https://github.com/chaoss/augur/pull/576
+
+## Other
+- Issues:
+  - https://github.com/chaoss/augur/issues/581
+  
+  
+- Pull Requests:
+  - https://github.com/chaoss/augur/pull/588
+
+## About me  
+- My name is **P Akshara**. I am in my **second year pursuing Bachelor of Technology (B.Tech) in Information Technology** at
+National Institute of Technology Karnataka, Surathkal in India.
+

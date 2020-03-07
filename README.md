@@ -26,5 +26,9 @@ Pull request links: https://github.com/chaoss/augur/pull/568, https://github.com
 
 ## About me  
 - My name is **P Akshara**. I am in my **second year pursuing Bachelor of Technology (B.Tech) in Information Technology** at
-National Institute of Technology Karnataka, Surathkal in India.
+**National Institute of Technology Karnataka, Surathkal in India.**
+- I developed interest in programming when I got the **opprtunity to spend a summer under the [Technovation WeTech program](https://www.iie.org/programs/wetech) in class 8.** Here I was mentored by **experts from Qualcomm**, who guided us in making an App and a business solution to market it.
+- I have been programming in **C++/Python since 3 years** and have done some projects as well. I am **familiar with Scikit-learn, Pandas, Numpy, Keras and have a basic knowledge of Flask** as well.
+- In my college, I am a part of **2 technical communities, [IEEE Computer Society](https://ieee.nitk.ac.in/index.html) and [IRIS](https://iris.nitk.ac.in/hrms/pages/about)**. In IEEE, I'm a part of the Intelligence society and in IRIS, I am a part of the **web development team, working on Ruby on Rails satck.**
+ 
 

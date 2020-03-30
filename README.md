@@ -18,8 +18,8 @@ Worked in dev branch and added a notebook to analyze anomalies in the messages t
 
 ## Other
 - Issues:
-  - https://github.com/chaoss/augur/issues/581
-  
+  - https://github.com/chaoss/augur/issues/581 <br>
+  I am also trying to solve https://github.com/chaoss/augur/issues/541, opened as an issue in this repo with a partial fix https://github.com/aksh555/chaoss-microtasks/issues/1
   
 - Pull Requests:
   - https://github.com/chaoss/augur/pull/588
